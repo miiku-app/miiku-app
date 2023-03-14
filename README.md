@@ -1,8 +1,8 @@
-<div id="header" aling="center">
-  <img src="https://tenor.com/es/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289" width="200" />
+
+ <img src="https://tenor.com/es/view/using-the-computer-debbie-harper-harper-house-on-the-pc-typing-gif-26193289" width="200" />
 <h1 align="center">Hola! 👋, Soy Yanina!</h1>
-<h3 align="center">Desarrolladora java y apasionada de Flutter</h3>
-</div>
+<h3 align="center">Desarrolladora Java y apasionada de Flutter</h3>
+
 - 🔭 Actualmente estoy trabajando en **Ayi.Group**
 
 - 🌱 actualmente estudio **Flutter, Js e Inglés**
