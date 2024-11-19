@@ -7,7 +7,7 @@
 
 - 🌱 actualmente estudio **Flutter, Js e Inglés**
 
-- 💬 Sobre mi **Mi nombre es Yanina, Trabajo hace 3 años en el área de desarrollo, más precisamente con el lenguaje de programación Java, soy autodidacta y me gusta estar haciendo cursos todo el tiempo. Oficialmente estudio Ingles y JavaScript.**
+- 💬 Sobre mi **Mi nombre es Yanina, Trabajo hace 5 años en el área de desarrollo, más precisamente con el lenguaje de programación Java, soy autodidacta y me gusta estar haciendo cursos todo el tiempo. Oficialmente estudio Flutter y UX-UI.**
 
 - 📫 Mi contacto **miiku.app@gmail.com**
 
